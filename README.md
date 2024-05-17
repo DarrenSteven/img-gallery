@@ -15,12 +15,12 @@ Ini adalah proyek sederhana yang dibangun menggunakan React, TypeScript, dan CSS
     git clone https://github.com/DarrenSteven/img-gallery.git
 
 2. **Pindah ke Direktori Proyek:**
-    cd netflix-clone
+    cd img-gallery
 
-3. **Install Dependensi:**
+4. **Install Dependensi:**
     npm install
 
-4. **Menjalankan Aplikasi:**
+5. **Menjalankan Aplikasi:**
     npm start
 
     Aplikasi akan berjalan di mode pengembangan. Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
