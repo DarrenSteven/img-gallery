@@ -12,7 +12,7 @@ Ini adalah proyek sederhana yang dibangun menggunakan React, TypeScript, dan CSS
 ## Instalasi
 
 1. **Clone Repository:**
-    git clone https://github.com/username/netflix-clone.git
+    git clone https://github.com/username/img-gallery.git
 
 2. **Pindah ke Direktori Proyek:**
     cd netflix-clone
